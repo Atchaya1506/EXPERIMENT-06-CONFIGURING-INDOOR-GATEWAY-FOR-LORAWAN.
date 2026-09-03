@@ -1,4 +1,4 @@
-# EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
+<img width="1535" height="833" alt="Screenshot 2026-09-01 155629" src="https://github.com/user-attachments/assets/1c235844-39b0-4267-825d-004c09ddc9c0" /># EXPERIMENT-06-CONFIGURING-INDOOR-GATEWAY-FOR-LORAWAN
 
 ## Aim: 
 
@@ -120,7 +120,9 @@ The frequency band is allocated now. Now we need to get the Gateway ID. To get t
 
 ## OUTPUT 
 
+<img width="1535" height="833" alt="Screenshot 2026-09-01 155629" src="https://github.com/user-attachments/assets/37132fb1-d439-426e-948a-4417ca575deb" />
 
+<img width="902" height="1600" alt="image" src="https://github.com/user-attachments/assets/ed218083-db0c-42bc-bcd5-7003a1780af5" />
 
 
 ## Result: 
